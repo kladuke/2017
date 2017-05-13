@@ -3,8 +3,8 @@
 ## Time how long the spinner spins for 4 people. 
 
 
-Person | Spin Time
------------- | -------------
+Person | Name | Spin Time
+-------- | ---- | -------------
 Person 1 |
 Person 2 |
 Person 3 |
