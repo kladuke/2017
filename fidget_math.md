@@ -26,4 +26,4 @@ Person 4 |
 - Put your 4 trials on the number line.
 
 Number line goes here
-More space 
+More space, Room to write answer 
